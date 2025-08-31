@@ -1,2 +1,3 @@
-# Versão 1.0
-print("Software de Exemplo - v1.0")
+# Versão 1.1
+autor = "Seu Nome"
+print(f"Software de Exemplo - v1.1 | Autor: {autor}")
